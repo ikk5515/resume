@@ -18,10 +18,10 @@
     "lint": "eslint \"component/**/*\" \"pages/**/*\" \"payload/**/*\" \"*.ts\" --fix",
     "typedoc": "typedoc --excludeExternals"
   },
-  "homepage": "https://ikk5515.github.io",
+  "homepage": "https://ikk5515.github.io/resume",
   "repository": {
     "type": "git",
-    "url": "git+https://ikk5515.github.io"
+    "url": "git+https://github.com/ikk5515/resume"
   },
   "keywords": [
     "resume",
@@ -30,12 +30,12 @@
   "author": {
     "name": "IN GI",
     "email": "dlsrl5515@gmail.com",
-    "url": "https://ikk5515.github.io/"
+    "url": "https://ikk5515.github.io/resume"
   },
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://ikk5515.github.io/"
+    "url": "https://ikk5515.github.io/resume"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
