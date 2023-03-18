@@ -18,10 +18,10 @@
     "lint": "eslint \"component/**/*\" \"pages/**/*\" \"payload/**/*\" \"*.ts\" --fix",
     "typedoc": "typedoc --excludeExternals"
   },
-  "homepage": "https://ikk5515.github.io/resume/",
+  "homepage": "https://ikk5515.github.io/resume",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ikk5515/resume/"
+    "url": "git+https://github.com/ikk5515/resume.git"
   },
   "keywords": [
     "resume",
