@@ -8,7 +8,7 @@ const profile: IProfile.Payload = {
 
   name: {
     title: '김인기',
-    small: '(Kim In Gi)',
+    small: '',
   },
   contact: [
     {
