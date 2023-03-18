@@ -18,7 +18,7 @@
     "lint": "eslint \"component/**/*\" \"pages/**/*\" \"payload/**/*\" \"*.ts\" --fix",
     "typedoc": "typedoc --excludeExternals"
   },
-  "homepage": "https://ikk5515.github.io/resume",
+  "homepage": "https://ikk5515.github.io/resume/docs/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ikk5515/resume.git"
@@ -30,12 +30,12 @@
   "author": {
     "name": "IN GI",
     "email": "dlsrl5515@gmail.com",
-    "url": "https://ikk5515.github.io/resume/"
+    "url": "https://ikk5515.github.io/resume/docs/"
   },
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://ikk5515.github.io/resume/"
+    "url": "https://ikk5515.github.io/resume/docs/"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
