@@ -9,15 +9,15 @@ const backend: ISkill.Skill = {
     },
     {
       title: 'Spring Boot',
-      level: 2,
+      level: 3,
+    },
+    {
+      title: 'Spring MVC',
+      level: 3,
     },
     {
       title: 'C/C++',
       level: 2,
-    },
-    {
-      title: 'AWS',
-      level: 1,
     },
     {
       title: 'Python',
